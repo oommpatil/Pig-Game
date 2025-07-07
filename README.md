@@ -46,3 +46,8 @@ A simple and fun two-player dice game built using HTML, CSS, and JavaScript.
 - `dice-1.png` to `dice-6.png`
 
 4. Open `index.html` in your browser and start playing!
+
+
+## Credits
+
+Inspired by the Pig Game project from Jonas Schmedtmann’s “The Complete JavaScript Course” on Udemy.
